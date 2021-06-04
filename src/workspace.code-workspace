@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Exercise Files\\Chapter01"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todolist"
+	}
+}
